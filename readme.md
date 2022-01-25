@@ -1,5 +1,7 @@
 # DevOps for Beginners - Docker, Kubernetes, Terraform and Azure Devops
 
+[![IaC](https://app.soluble.cloud/api/v1/public/badges/95256eaa-8052-4c54-8a36-ea2a31466aad.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/devops-master-class?orgId=561911742905)  [![Git](https://app.soluble.cloud/api/v1/public/badges/e481a5f5-a59b-42bb-bcd0-7d1ce1b2cd27.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/devops-master-class?orgId=561911742905)  [![CIS](https://app.soluble.cloud/api/v1/public/badges/7df573c5-a8ba-47aa-b659-4a3686cdd97a.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/devops-master-class?orgId=561911742905)  [![HIPAA](https://app.soluble.cloud/api/v1/public/badges/f086f671-aa8a-4845-acb1-88c6b3b9ab83.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/devops-master-class?orgId=561911742905)  
+
 [![Image](https://www.springboottutorial.com/images/Course-DevOps.png "DevOps Course")](https://links.in28minutes.com/DevOps-SBT)
 
 
